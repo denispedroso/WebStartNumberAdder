@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebStartNumberAdder", "WebStartNumberAdder\WebStartNumberAdder.vbproj", "{1D6ECD61-726C-43DF-BA7A-B00C26D9B8E3}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Object Oriented Programming Assignment", "Object Oriented Programming Assignment\Object Oriented Programming Assignment.vbproj", "{27021536-030D-43D2-97BF-C8AAA1A2163A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D6ECD61-726C-43DF-BA7A-B00C26D9B8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6ECD61-726C-43DF-BA7A-B00C26D9B8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6ECD61-726C-43DF-BA7A-B00C26D9B8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6ECD61-726C-43DF-BA7A-B00C26D9B8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27021536-030D-43D2-97BF-C8AAA1A2163A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27021536-030D-43D2-97BF-C8AAA1A2163A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27021536-030D-43D2-97BF-C8AAA1A2163A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27021536-030D-43D2-97BF-C8AAA1A2163A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
